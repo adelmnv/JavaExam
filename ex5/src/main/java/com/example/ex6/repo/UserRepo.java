@@ -1,6 +1,6 @@
-package com.example.ex5.repo;
+package com.example.ex6.repo;
 
-import com.example.ex5.model.User;
+import com.example.ex6.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

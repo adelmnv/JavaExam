@@ -1,8 +1,8 @@
-package com.example.ex5.controller;
+package com.example.ex6.controller;
 
 
-import com.example.ex5.model.User;
-import com.example.ex5.repo.UserRepo;
+import com.example.ex6.model.User;
+import com.example.ex6.repo.UserRepo;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.ex5.model;
+package com.example.ex6.model;
 import lombok.Data;
 import jakarta.persistence.Id;
 import jakarta.persistence.Entity;
